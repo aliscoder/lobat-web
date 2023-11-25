@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/lobat-web/static/js/main.1e5d378e.js",
-    "static/js/915.dd8ef9ce.js": "/lobat-web/static/js/915.dd8ef9ce.js",
+    "main.js": "/lobat-web/static/js/main.c9713e0f.js",
+    "static/js/915.ac238f6a.js": "/lobat-web/static/js/915.ac238f6a.js",
     "static/media/MaterialCommunityIcons.ttf": "/lobat-web/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Base.jpg": "/lobat-web/static/media/Base.fcaeaf7cca13d3dde112.jpg",
     "static/media/Ionicons.ttf": "/lobat-web/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
@@ -22,11 +22,11 @@
     "favicon-16.png": "/lobat-web/favicon-16.png",
     "manifest.json": "/lobat-web/manifest.json",
     "serve.json": "/lobat-web/serve.json",
-    "main.1e5d378e.js.map": "/lobat-web/static/js/main.1e5d378e.js.map",
-    "915.dd8ef9ce.js.map": "/lobat-web/static/js/915.dd8ef9ce.js.map"
+    "main.c9713e0f.js.map": "/lobat-web/static/js/main.c9713e0f.js.map",
+    "915.ac238f6a.js.map": "/lobat-web/static/js/915.ac238f6a.js.map"
   },
   "entrypoints": [
-    "static/js/915.dd8ef9ce.js",
-    "static/js/main.1e5d378e.js"
+    "static/js/915.ac238f6a.js",
+    "static/js/main.c9713e0f.js"
   ]
 }
